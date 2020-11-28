@@ -1,6 +1,5 @@
 # BasicBot
 Chatbot website which evaluates basic calculations. Kainos Codecamp 2019 project. (Ranked in the top 10!)
-View the website here:
 https://mjm288.github.io/BasicBot/
 # Features:
 * Calculates expressions of arbitrary length, where operations consist of addition, subtraction, multiplication and division.
